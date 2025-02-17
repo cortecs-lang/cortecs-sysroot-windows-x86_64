@@ -1,3 +1,3 @@
 exports_files([
-    "ucrt-headers.bzl",
+    "ucrt-headers.tar.xz",
 ])
