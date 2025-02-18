@@ -1,4 +1,4 @@
 exports_files([
-    "ucrt-headers.tar.xz",
+    "ucrt.tar.xz",
     "msvcrt-headers.tar.xz",
 ])
