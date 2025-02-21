@@ -1,6 +1,7 @@
 UCRT_OUTS = [
     "lib/kernel32.lib",
     "lib/libcmt.lib",
+    "lib/libcpmt.lib",
     "lib/libucrt.lib",
     "lib/libvcruntime.lib",
     "lib/Uuid.lib",
