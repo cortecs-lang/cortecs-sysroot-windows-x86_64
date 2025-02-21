@@ -1,6 +1,8 @@
 UCRT_OUTS = [
-    "lib/ucrt.lib",
+    "lib/kernel32.lib",
     "lib/libcmt.lib",
+    "lib/libucrt.lib",
+    "lib/libvcruntime.lib",
     "include/string.h",
     "include/wctype.h",
     "include/float.h",
