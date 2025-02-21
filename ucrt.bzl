@@ -3,6 +3,7 @@ UCRT_OUTS = [
     "lib/libcmt.lib",
     "lib/libucrt.lib",
     "lib/libvcruntime.lib",
+    "lib/Uuid.lib",
     "include/string.h",
     "include/wctype.h",
     "include/float.h",
